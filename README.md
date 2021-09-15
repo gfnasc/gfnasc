@@ -9,4 +9,4 @@ It is a course provided free of charge by Stanford. Below are the links to the r
 Course page (cs193p): <https://cs193p.sites.stanford.edu/>
 Github repository: <https://github.com/gfnasc/stanford-CS193p-dev-ios>
 
-In my spare time I really enjoy playing musical instruments and recording videos to post on my networks (🎸🎥). I currently play guitar, bass and drums. The next instrument I will learn will be the Violin.
+In my spare time I really enjoy playing musical instruments and recording videos to post on my networks (🎸🎥). I currently play guitar, bass, ukulele and drums. The next instrument I will learn will be the Violin.
