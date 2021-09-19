@@ -1,6 +1,6 @@
 ### Hello :grin:
 
-My name is Guilherme Nascimento and I live in Brazil (🇧🇷). Currently working as a full stack developer (PHP, Laravel, Node.js and Vuejs) in a company that focuses on email, SMS and transactional SMTP distribution tools.
+My name is Guilherme Nascimento and I live in Brazil (🇧🇷). Currently working as a full stack developer (PHP/Laravel) in a company that focuses on email, SMS and transactional SMTP distribution tools.
 
 Currently specializing in iOS app development with Swift/SwiftUI at Stanford (👨🏻‍💻📲).
 
